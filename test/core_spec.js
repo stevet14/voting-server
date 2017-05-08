@@ -1,6 +1,6 @@
 import {List, Map} from 'immutable';
 import {expect} from 'chai';
-import {next} from '../src/core';
+import {next, vote} from '../src/core';
 
 describe('next', () => {
 
